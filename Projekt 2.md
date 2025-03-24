@@ -1,0 +1,3 @@
+- 11.04(11:00) Kamień 1 - Odpalenie i benchmark.
+- 09.05(11:00) Kamień 2 - 
+- 06.06(11:00) Kamień 3
